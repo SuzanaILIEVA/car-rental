@@ -11,3 +11,7 @@ It is coded with Html and CSS.
 ![](/car-rental/images/secreenshot.png)
 
 ![](/car-rental/images/screenshot2.png)
+
+## Gif
+
+![Car Rental Gif](/car-rental/images/car-rental.gif)
